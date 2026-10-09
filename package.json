@@ -1,0 +1,21 @@
+{
+  "name": "website-pos",
+  "version": "1.0.0",
+  "description": "Sistem aplikasi Point of Sale (POS) modern berbasis web yang dirancang untuk mendukung operasional bisnis multi-cabang (multi-store), dilengkapi dengan manajemen inventori lengkap, laporan keuangan otomatis dengan visualisasi grafik (chart), dan sistem otorisasi multi-role (RBAC).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhdfrhan/website-pos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mhdfrhan/website-pos/issues"
+  },
+  "homepage": "https://github.com/mhdfrhan/website-pos#readme"
+}
